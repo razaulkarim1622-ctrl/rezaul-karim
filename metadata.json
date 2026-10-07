@@ -1,0 +1,6 @@
+{
+  "name": "Dokan Khata",
+  "description": "আধুনিক ও সহজ দোকান ম্যানেজমেন্ট, ক্যাশবই, বাকি হিসাব, স্টক ও বিক্রয় হিসাব খাতা",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
